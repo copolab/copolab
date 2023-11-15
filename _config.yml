@@ -1,1 +1,5 @@
-theme: jekyll-theme-minimal
+title: COPOLAB
+description: Skills Meet Gigs, Your Gateway to Job Discovery
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-cayman
